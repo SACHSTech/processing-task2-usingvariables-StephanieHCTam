@@ -9,7 +9,7 @@ public class Sketch extends PApplet {
   
   public void settings() {
 	// size call 
-    size(400, 400);
+    size(600, 600);
   }
   
   // Blue Background
